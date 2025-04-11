@@ -4,6 +4,10 @@ Street. With our newfound knowledge of Python programming, we’re going to buil
 for your customers. In this project, we will be storing the names and prices of a furniture store’s catalog in variables. You will then process t
 he total price and item list of customers, printing them to the output terminal
 
+Spanish Translation:Hemos decidido perseguir el sueño de tener un pequeño negocio y abrir una mueblería llamada Lovely Loveseats para Neat Suites en Fleet Street. 
+Con nuestros nuevos conocimientos de programación en Python, vamos a crear un sistema para agilizar el proceso de creación de recibos para sus clientes. 
+En este proyecto, almacenaremos los nombres y precios del catálogo de una mueblería en variables. Luego, procesará el precio total y la lista de artículos de los clientes, 
+imprimiéndolos en la terminal de salida.
 """
 
 lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white."
