@@ -19,7 +19,7 @@ random_number = random.randint(1,9)
 # Setting up the control flow of the program
 if random_number == 1:
   answer = "Yes - definitely"
-elif random_number ==2:
+elif random_number == 2:
   answer = "It is decidedly so"
 elif random_number == 3:
   answer = "Without a doubt"
@@ -44,5 +44,6 @@ if name == "":
 
 
 # Seeing the result 
-print(name + " asks: " + question)
+# print(name + " asks: " + question) # Replaced with the fomatting function
+print(f"{name} asks: {question}")
 print("Magic 8-Ball's answer: " + answer)
